@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**normanemongais38/normanemongais38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Norman 👋 | Aspiring SOC L1 Analyst from Kenya
+Diploma in ICT | Cisco Certified | HTB Academy
 
-Here are some ideas to get you started:
+**🔍 About Me:**
+I am a cybersecurity enthusiast from Busia , Western Kenya. Focused on SOC Operations, Endpoint Security, and Threat Detection.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🛠️ Skills:**
+- Linux Fundamentals & Windows Fundamentals (HTB Academy)
+- Endpoint Security, Network Basics
+- Tools: Wireshark, Defender for Endpoint, Event Viewer, VirusTotal, Linux Terminal
+
+**📜 Certifications:**
+- Cisco Introduction to Cybersecurity
+- Cisco Endpoint Security
+- HTB Linux Fundamentals
+- HTB Windows Fundamentals
+
+**📚 Currently Learning:**
+- Cisco Network Defense
+- SOC Analyst Path
+
+**📫 Connect:**
+- Email: [normanemongais38@gmail.com]
+- Location: Busia, Kenya
+
+> "Learning to protect, one alert at a time."
